@@ -4,3 +4,5 @@
 *.pdf
 *.synctex*
 *.*_latexmk
+auto/*
+auto/
