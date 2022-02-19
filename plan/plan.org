@@ -1,0 +1,48 @@
+* hook: the outer planet's colonies declare themselves independent
+* establish main character, motivations, and one or two other people
+* organization of the people who want to get to the outer planets
+* ??? (options)
+** take over the launch complex temporarily
+** manipulate SpaceTech records and a few key people to ensure the "right" people wind up on that flight
+* astronaut training, launchpad ops
+* ascent
+* on earth orbit
+** all the crew getting to know each other
+** figuring out who can room with who
+** refueling operations
+* Transmartian injection
+* transit to Mars
+** mid-course correction burn (<10m/s)
+* arrival at Mars
+** correction burn a week in advance (~20m/s)
+** braking burn at periapse (significant)
+** aerobraking passes
+** raising periapse again to stay on orbit
+** staying on orbit to refuel, as they've arrived just on time to refuel and make the window for the transfer to Jupiter
+* TJI
+* transit to Jupiter (part 1)
+* mid-course correction burn (somewhat significant)
+* transit to Jupiter (part 2)
+* arrival at Jupiter
+** correction burn a month in advance (~30m/s) to hit Callisto
+** braking burn at periapse around Callisto; burn to near depletion into a highly elliptical orbit (this is standard procedure)
+** refueling in highly elliptical Callistan orbit
+** landing at Callisto
+* Callistan stay, work on SpaceTech Starship conversion for mass driver firing
+** the Starship has:
+Basically, it's converted to an entirely new interplanetary transport ship, cobbled together from existing parts and sticking to the established 9m diameter.
+*** it's aerosurfaces permanently removed
+*** length increased
+*** tanks increased in size
+*** living space increased in size drastically
+*** new RCS thruster clusters on the new parts; increased amount of RCS control authority in total
+*** railgun contact rails added for firing out of the prepped jovian system escape mass driver (mainly used to ship mining supplies in years past, now refitted to launch spaceships carrying people and supplies)
+*** it's total loaded delta-v at 250t payload increased to 7.5km/s
+*** thrust structure replaced, skirt removed
+*** thrust structure and piping prepared for switching from 6 RVac/3 R-SL to 3 Methane NTRs/3 R-SL upon arrival in the Uranian system
+*** all solar panels stripped, a compact highly enriched uranium fuelled nuclear reactor of the kind used on US aircraft carriers added
+*** heat shielding stripped
+*** communication systems massively upgraded, with multiple backup systems installed
+*** a cargo hold module installed forward of the newly-built and rebuilt living space
+** several crew members choose to stay on Callisto and continue the local Starship rebuilding programme
+** several crew members choose to continue helping with Callistan research while staying on until Uranus
